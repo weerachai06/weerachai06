@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on [King Power Click
-](https://www.kingpowerclick.com)
+](https://kingpowerclick.com)
 - 🌱 I’m currently learning `flutter`, `docker`, `trpc` and advanced `typescript`
 
 
